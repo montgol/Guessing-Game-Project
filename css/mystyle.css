@@ -1,0 +1,63 @@
+body {
+	background: url("xmasTree2.jpg") no-repeat center center fixed;
+	background-size: cover;
+	background-color: crimson;
+	text-align: center;
+	overflow: auto;
+}
+
+h1 {
+	color: green;
+}
+
+h3 {
+	color: black;
+}
+
+p {
+	color: green;
+}
+
+.main-box {
+	margin: 2% 35%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	float: center;
+	text-align: center;
+	background-color: #CD0000;
+	border-radius: 15px;
+}
+
+.gift {
+	background: white;
+	border-radius: 10px;
+	margin: 0 5%;
+}
+
+.guess {
+	background: #EEE;
+	margin: 2% 25%;
+}
+
+.inputbox {
+	font-weight: 200;
+	background: #DDD;
+	padding-bottom: 15%;
+}
+
+li {
+	background: green;
+	color: white;
+}
+
+.btn3 {
+	padding: 2% 5%;	
+}
+
+.btn3:hover{
+	background: #DDD;
+}
+
+.btn2:hover {
+	background: green;
+}
