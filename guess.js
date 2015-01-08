@@ -10,7 +10,7 @@ var correctGuess = false,
 
 // The user should have an input field where they can submit a guess.
 var Guess = function () {
-	var x = document.form1.guess1.value;
+	var x; // get input ?? 
 	tries++;
 	numTries = "You have " + (maxTries - tries) + " guesses remaining";
 
